@@ -1,2 +1,2 @@
 # crewAIAgents
-Multi-agents system with CrewAI
+Notes from building multi-agents system with CrewAI
