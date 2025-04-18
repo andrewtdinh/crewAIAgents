@@ -1,2 +1,3 @@
-# crewAIAgents
-Notes from building multi-agents system with CrewAI
+## AI Agents Systems
+
+This repo combine notes from different tutorials and classes 
